@@ -11,10 +11,10 @@ With a straightforward approach, the Logistic Regression model achieves a perfec
 
 ## Features  
 The dataset includes 150 samples, each with the following features:  
-- **Sepal Length (cm)**  
-- **Sepal Width (cm)**  
-- **Petal Length (cm)**  
-- **Petal Width (cm)**  
+- **Sepal Length**  
+- **Sepal Width**  
+- **Petal Length**  
+- **Petal Width**  
 
 Each sample is categorized into one of the following species:  
 1. Setosa
